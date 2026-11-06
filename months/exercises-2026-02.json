@@ -1,0 +1,196 @@
+{
+  "month": "2026-02",
+  "source_note": "Curated from AARP, Cleveland Clinic, Kaiser Permanente, and NIA-style geriatric guidance. Low-intensity, knee-aware. MUST be reviewed with your care team before use; this is a starting template, not medical advice.",
+  "exercises": [
+    {
+      "id": "ankle-pumps",
+      "name": "Ankle Pumps",
+      "category": "circulation",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with both feet flat on the floor.",
+        "Lift your toes toward you while keeping your heels down, then press your toes down and lift your heels.",
+        "Pump slowly and steadily, about 15 times.",
+        "This keeps the blood moving in your lower legs."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep the motion at the ankles. Easy and rhythmic, no straining.",
+      "illustration": "images/ankle-pumps.png",
+      "videoUrl": null
+    },
+    {
+      "id": "seated-leg-lifts",
+      "name": "Seated Straight-Leg Lifts",
+      "category": "strength",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with your back supported and feet flat.",
+        "Straighten one leg until it is roughly parallel with the floor, or as close as is comfortable.",
+        "Hold for a few seconds, then lower slowly.",
+        "Do about 10 on each leg, alternating."
+      ],
+      "seatedVariant": "This exercise is done seated — gentle on the knee.",
+      "kneeFriendly": true,
+      "safetyCue": "Lift only to a comfortable height. Lower with control rather than dropping the leg.",
+      "illustration": "images/seated-leg-lifts.png",
+      "videoUrl": null
+    },
+    {
+      "id": "shoulder-blade-squeezes",
+      "name": "Shoulder Blade Squeezes",
+      "category": "strength",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with arms relaxed and shoulders down.",
+        "Gently draw your shoulder blades together, as if holding a pencil between them.",
+        "Hold for 3 to 5 seconds, then release.",
+        "Repeat about 10 times. Good for posture."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep shoulders down away from your ears. Squeeze gently, don't shrug.",
+      "illustration": "images/shoulder-blade-squeezes.png",
+      "videoUrl": null
+    },
+    {
+      "id": "overhead-arm-reach",
+      "name": "Overhead Arm Reach",
+      "category": "mobility",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with feet flat.",
+        "Slowly raise both arms up overhead as far as is comfortable.",
+        "Reach gently toward the ceiling, then lower the arms with control.",
+        "Repeat about 8 times."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Only raise as high as your shoulders allow without pain. Keep breathing.",
+      "illustration": "images/overhead-arm-reach.png",
+      "videoUrl": null
+    },
+    {
+      "id": "heel-raises",
+      "name": "Heel Raises",
+      "category": "strength",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "standing",
+      "steps": [
+        "Stand behind a sturdy chair, holding the back for support.",
+        "Slowly rise up onto the balls of your feet, lifting your heels.",
+        "Hold for a moment, then lower slowly.",
+        "Repeat about 10 times."
+      ],
+      "seatedVariant": "Seated: with feet flat, press through the balls of your feet to lift your heels, then lower. About 12 times.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep a hand on the chair. Rise only as high as feels steady.",
+      "illustration": "images/heel-raises.png",
+      "videoUrl": null
+    },
+    {
+      "id": "standing-side-leg-raises",
+      "name": "Standing Side Leg Raises",
+      "category": "balance",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "standing",
+      "steps": [
+        "Stand behind a sturdy chair, holding on with both hands.",
+        "Keeping your leg straight and your body tall, lift one leg out to the side a few inches.",
+        "Lower it slowly with control.",
+        "Do about 8 on each side."
+      ],
+      "seatedVariant": "Seated: slide one foot out to the side along the floor and back, keeping the leg relaxed. About 10 each side.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep both hands on the chair and your torso upright. Lift only a small amount.",
+      "illustration": "images/standing-side-leg-raises.png",
+      "videoUrl": null
+    },
+    {
+      "id": "side-to-side-weight-shifts",
+      "name": "Side-to-Side Weight Shifts",
+      "category": "balance",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "standing",
+      "steps": [
+        "Stand behind a sturdy chair with feet about hip-width apart, hands on the back.",
+        "Slowly shift your weight onto your right foot, feeling your balance settle.",
+        "Then shift smoothly onto your left foot.",
+        "Continue gently side to side, about 10 shifts each way."
+      ],
+      "seatedVariant": "Seated: gently lean your weight from one hip to the other, side to side, about 10 each way.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep the shifts small and controlled, hands resting on the chair.",
+      "illustration": "images/side-to-side-weight-shifts.png",
+      "videoUrl": null
+    },
+    {
+      "id": "seated-side-bends",
+      "name": "Seated Side Bends",
+      "category": "flexibility",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with feet flat and hands resting on your thighs.",
+        "Reach your right arm up and gently lean to the left, feeling a stretch along your right side.",
+        "Return to center, then reach your left arm up and lean right.",
+        "Repeat 5 times each way."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Lean only until you feel a mild stretch. Keep both hips on the chair.",
+      "illustration": "images/seated-side-bends.png",
+      "videoUrl": null
+    },
+    {
+      "id": "wrist-and-hand-opens",
+      "name": "Wrist Circles & Hand Opens",
+      "category": "circulation",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Rest your forearms on your thighs or the armrests.",
+        "Slowly circle both wrists 8 times one way, then 8 the other.",
+        "Then open your hands wide, spreading the fingers, and close into a soft fist.",
+        "Repeat the open-and-close about 10 times."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Gentle and slow; stop if any joint feels sore.",
+      "illustration": "images/wrist-and-hand-opens.png",
+      "videoUrl": null
+    },
+    {
+      "id": "seated-deep-breathing",
+      "name": "Seated Deep Breathing",
+      "category": "flexibility",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall and comfortable, shoulders relaxed, hands on your belly.",
+        "Breathe in slowly through your nose, feeling your belly rise, for a count of 4.",
+        "Breathe out gently through pursed lips for a count of 6.",
+        "Repeat for about 6 slow breaths."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep it easy and unhurried. If you feel lightheaded, return to normal breathing.",
+      "illustration": "images/seated-deep-breathing.png",
+      "videoUrl": null
+    }
+  ]
+}

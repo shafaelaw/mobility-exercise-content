@@ -1,0 +1,195 @@
+{
+  "month": "2026-01",
+  "source_note": "Curated from AARP, Cleveland Clinic, Kaiser Permanente, and NIA-style geriatric guidance. Low-intensity, knee-aware. MUST be reviewed with your care team before use; this is a starting template, not medical advice.",
+  "exercises": [
+    {
+      "id": "ankle-circles",
+      "name": "Ankle Circles",
+      "category": "mobility",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall in a sturdy chair with your feet flat on the floor.",
+        "Lift your right foot a few inches off the floor.",
+        "Draw 10 slow circles with your toes, then reverse for 10 more.",
+        "Lower the foot and repeat with the left."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Move slowly and keep the motion at the ankle. Stop if you feel any pinch in the knee.",
+      "illustration": "images/ankle-circles.png",
+      "videoUrl": null
+    },
+    {
+      "id": "seated-marching",
+      "name": "Seated Marching",
+      "category": "circulation",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall, hands resting on your thighs or lightly on the sides of the chair.",
+        "Lift one knee a comfortable height, then set the foot down.",
+        "Alternate legs in a slow, steady march.",
+        "Aim for about 20 lifts total, breathing easily throughout."
+      ],
+      "seatedVariant": "This exercise is done seated. If you'd like more, you can march in place while holding the back of the chair.",
+      "kneeFriendly": true,
+      "safetyCue": "Only lift as high as feels easy. Keep your back supported.",
+      "illustration": "images/seated-marching.png",
+      "videoUrl": null
+    },
+    {
+      "id": "shoulder-rolls",
+      "name": "Shoulder Rolls",
+      "category": "mobility",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit or stand tall with arms relaxed at your sides.",
+        "Slowly roll both shoulders up toward your ears, then back and down.",
+        "Repeat 8 times backward, then 8 times forward."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep the movement gentle and smooth; no need to force the range.",
+      "illustration": "images/shoulder-rolls.png",
+      "videoUrl": null
+    },
+    {
+      "id": "gentle-neck-turns",
+      "name": "Gentle Neck Turns",
+      "category": "mobility",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with your shoulders relaxed and eyes forward.",
+        "Slowly turn your head to look over your right shoulder.",
+        "Hold for a breath, return to center, then turn to the left.",
+        "Repeat 5 times to each side."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Turn only as far as is comfortable. Never force or jerk the neck.",
+      "illustration": "images/gentle-neck-turns.png",
+      "videoUrl": null
+    },
+    {
+      "id": "seated-knee-extensions",
+      "name": "Seated Knee Extensions",
+      "category": "strength",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with both feet flat and about hip-width apart.",
+        "Slowly straighten one leg out in front, as far as is comfortable.",
+        "Hold for a moment, then lower with control.",
+        "Do about 10 on each leg, alternating."
+      ],
+      "seatedVariant": "This exercise is done seated — gentle and good for the knee.",
+      "kneeFriendly": true,
+      "safetyCue": "Don't lock the knee or push into pain. A gentle stretch behind the knee is fine.",
+      "illustration": "images/seated-knee-extensions.png",
+      "videoUrl": null
+    },
+    {
+      "id": "heel-toe-weight-shifts",
+      "name": "Heel-to-Toe Weight Shifts",
+      "category": "balance",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "standing",
+      "steps": [
+        "Stand behind a sturdy chair, both hands resting on the back.",
+        "Slowly rock your weight onto your heels, lifting your toes.",
+        "Then rock forward onto the balls of your feet, lifting your heels.",
+        "Repeat 10 slow shifts, keeping a light hold on the chair."
+      ],
+      "seatedVariant": "Seated: with feet flat, lift your toes, then your heels, alternating, about 10 times.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep a hand on the chair the whole time. Stop if you feel unsteady.",
+      "illustration": "images/heel-toe-weight-shifts.png",
+      "videoUrl": null
+    },
+    {
+      "id": "supported-single-leg-stance",
+      "name": "Supported Single-Leg Stand",
+      "category": "balance",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "standing",
+      "steps": [
+        "Stand behind a sturdy chair, holding the back with both hands.",
+        "Shift your weight onto one foot and lift the other slightly off the floor.",
+        "Hold for 5 to 10 seconds, then lower.",
+        "Repeat 3 to 5 times on each side."
+      ],
+      "seatedVariant": "Seated: straighten one leg and hold it lifted a few inches for 5 seconds, then switch.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep both hands on the chair. Only lift the foot a little. Stop if wobbly.",
+      "illustration": "images/supported-single-leg-stance.png",
+      "videoUrl": null
+    },
+    {
+      "id": "chair-rises",
+      "name": "Sit-to-Stand Chair Rises",
+      "category": "strength",
+      "durationMinutes": 5,
+      "intensity": "low",
+      "defaultPosition": "standing",
+      "steps": [
+        "Sit toward the front of a sturdy chair, feet flat and hip-width apart.",
+        "Lean slightly forward and press through your heels to stand.",
+        "Use the armrests for help if you need them.",
+        "Lower back down slowly with control. Repeat about 5 times."
+      ],
+      "seatedVariant": "Seated: lean forward as if to rise and gently press into your legs without fully standing, 5 times.",
+      "kneeFriendly": true,
+      "safetyCue": "Use the armrests freely. Keep the range small and pain-free for your knee.",
+      "illustration": "images/chair-rises.png",
+      "videoUrl": null
+    },
+    {
+      "id": "seated-torso-twist",
+      "name": "Seated Torso Twist",
+      "category": "mobility",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with feet flat and hands resting on your thighs.",
+        "Gently turn your upper body to the right, letting your gaze follow.",
+        "Hold for a breath, return to center, then turn left.",
+        "Repeat 5 times each way."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Twist from the waist gently; keep your hips facing forward. No forcing.",
+      "illustration": "images/seated-torso-twist.png",
+      "videoUrl": null
+    },
+    {
+      "id": "seated-hamstring-calf-stretch",
+      "name": "Seated Hamstring & Calf Stretch",
+      "category": "flexibility",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall toward the front of the chair.",
+        "Extend one leg out with the heel on the floor and toes pointing up.",
+        "Sit a little taller and lean forward gently until you feel a mild stretch.",
+        "Hold for 15 to 20 seconds, then switch legs."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "A mild stretch is the goal, never pain. Keep your back long rather than rounding.",
+      "illustration": "images/seated-hamstring-calf-stretch.png",
+      "videoUrl": null
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "month": "2026-03",
+  "source_note": "Curated from AARP, Cleveland Clinic, Kaiser Permanente, and NIA-style geriatric guidance. Low-intensity, knee-aware. MUST be reviewed with your care team before use; this is a starting template, not medical advice.",
+  "exercises": [
+    {
+      "id": "toe-taps",
+      "name": "Toe Taps",
+      "category": "circulation",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with heels resting on the floor.",
+        "Keeping your heels down, tap the toes of both feet up and down.",
+        "Find a light, steady rhythm for about 20 taps.",
+        "A nice way to wake up the legs."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep it light and easy at the ankles; no need to rush.",
+      "illustration": "images/toe-taps.png",
+      "videoUrl": null
+    },
+    {
+      "id": "seated-knee-lifts-with-reach",
+      "name": "Knee Lift with Arm Reach",
+      "category": "circulation",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with feet flat.",
+        "Lift your right knee gently while raising your left arm overhead.",
+        "Lower both, then lift the left knee with the right arm.",
+        "Alternate slowly, about 8 times each side. A little coordination for body and mind."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Lift the knee only as high as is comfortable. Move at an easy pace.",
+      "illustration": "images/seated-knee-lifts-with-reach.png",
+      "videoUrl": null
+    },
+    {
+      "id": "neck-side-tilts",
+      "name": "Gentle Neck Side Tilts",
+      "category": "mobility",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with shoulders relaxed.",
+        "Slowly tilt your right ear toward your right shoulder until you feel a mild stretch.",
+        "Hold for a breath, return to center, then tilt left.",
+        "Repeat 4 times each side."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Let the head drop gently with gravity; never pull on your neck.",
+      "illustration": "images/neck-side-tilts.png",
+      "videoUrl": null
+    },
+    {
+      "id": "chin-tucks",
+      "name": "Chin Tucks",
+      "category": "mobility",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with eyes forward.",
+        "Gently draw your chin straight back, making a 'double chin,' without tilting your head.",
+        "Hold for 3 seconds, then relax.",
+        "Repeat about 8 times. Good for posture and neck comfort."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep it small and gentle; this should feel like a light tuck, not a strain.",
+      "illustration": "images/chin-tucks.png",
+      "videoUrl": null
+    },
+    {
+      "id": "standing-march-at-chair",
+      "name": "Standing March at the Chair",
+      "category": "balance",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "standing",
+      "steps": [
+        "Stand behind a sturdy chair, holding the back with both hands.",
+        "Slowly march in place, lifting one knee at a time to a comfortable height.",
+        "Keep your posture tall and your hold light.",
+        "March gently for about 20 steps total."
+      ],
+      "seatedVariant": "Seated: march in place while seated, lifting each knee in turn, about 20 steps.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep both hands on the chair. Lift knees only as high as feels steady.",
+      "illustration": "images/standing-march-at-chair.png",
+      "videoUrl": null
+    },
+    {
+      "id": "tandem-stance",
+      "name": "Heel-to-Toe Stand",
+      "category": "balance",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "standing",
+      "steps": [
+        "Stand beside a counter or sturdy chair, holding on with one or both hands.",
+        "Place one foot directly in front of the other, heel nearly touching the back toes.",
+        "Hold this narrow stance for 10 seconds, staying tall.",
+        "Switch which foot is in front and repeat. Do 3 times each way."
+      ],
+      "seatedVariant": "Seated: place one foot a step ahead of the other and hold, then switch, to practice the foot position safely.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep a firm hold on the support. Stop and widen your stance if you feel unsteady.",
+      "illustration": "images/tandem-stance.png",
+      "videoUrl": null
+    },
+    {
+      "id": "seated-cat-cow",
+      "name": "Seated Cat-Cow",
+      "category": "mobility",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with hands on your thighs.",
+        "Breathe in and gently arch your back, lifting your chest and looking slightly up.",
+        "Breathe out and round your back, tucking your chin toward your chest.",
+        "Flow slowly between the two for about 6 breaths."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "Move gently with your breath; keep the range small and comfortable.",
+      "illustration": "images/seated-cat-cow.png",
+      "videoUrl": null
+    },
+    {
+      "id": "seated-chest-opener",
+      "name": "Seated Chest Opener",
+      "category": "flexibility",
+      "durationMinutes": 3,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall toward the front of the chair.",
+        "Bring your hands behind your head, elbows wide, or clasp them gently behind your back.",
+        "Gently open your elbows or lift your chest until you feel a light stretch across the front.",
+        "Hold for 15 seconds, breathing easily. Repeat twice."
+      ],
+      "seatedVariant": "This exercise is done seated — no change needed.",
+      "kneeFriendly": true,
+      "safetyCue": "A gentle opening across the chest is enough; don't force the shoulders.",
+      "illustration": "images/seated-chest-opener.png",
+      "videoUrl": null
+    },
+    {
+      "id": "standing-calf-stretch",
+      "name": "Standing Calf Stretch",
+      "category": "flexibility",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "standing",
+      "steps": [
+        "Stand facing a wall or sturdy chair, hands resting on it.",
+        "Step one foot back, keeping that heel down and the back leg fairly straight.",
+        "Lean gently forward until you feel a mild stretch in the back calf.",
+        "Hold 15 to 20 seconds, then switch legs."
+      ],
+      "seatedVariant": "Seated: loop a towel under the ball of one foot, straighten the leg, and gently pull the toes toward you for a calf stretch. Switch legs.",
+      "kneeFriendly": true,
+      "safetyCue": "Keep hands on the support. A mild stretch only; avoid bouncing.",
+      "illustration": "images/standing-calf-stretch.png",
+      "videoUrl": null
+    },
+    {
+      "id": "seated-heel-slides",
+      "name": "Seated Heel Slides",
+      "category": "mobility",
+      "durationMinutes": 4,
+      "intensity": "low",
+      "defaultPosition": "seated",
+      "steps": [
+        "Sit tall with both feet flat on the floor.",
+        "Slowly slide one heel back toward the chair, gently bending the knee as far as is comfortable.",
+        "Slide it forward again to straighten.",
+        "Do about 10 slow slides on each leg. Gentle movement for a stiff knee."
+      ],
+      "seatedVariant": "This exercise is done seated — gentle and good for knee mobility.",
+      "kneeFriendly": true,
+      "safetyCue": "Work within a comfortable, pain-free range for your knee. Never force the bend.",
+      "illustration": "images/seated-heel-slides.png",
+      "videoUrl": null
+    }
+  ]
+}
